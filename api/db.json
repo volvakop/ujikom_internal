@@ -1,0 +1,44 @@
+{
+  "pariwisata": [
+    {
+      "id": "1",
+      "wisata": "Kebun Binatang Surabaya",
+      "keterangan": "Buka setiap hari Selasa-sabtu",
+      "alamat": "Jl. Setail No. 1, Surabaya,Jawa Timur ,berlibur dengan keluarga anda disini",
+      "pic": "https://osccdn.medcom.id/images/content/2022/12/31/2c5faa04a58d3961baaf03a36ae93bdf.jpg",
+      "harga": 50000
+    },
+    {
+      "id": "23",
+      "wisata": "Hutan Mangroove",
+      "keterangan": "Buka setiap hari",
+      "alamat": "jl wonorejo 1 rungkut Surabaya,jawa Timur , hutan sangat bermanfaat untuk alam",
+      "pic": "https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/08/31074839/53e532fa-c2fe-405a-9c3d-68e1f22be150.jpg",
+      "harga": 30000
+    },
+    {
+      "id": "24",
+      "wisata": "Pantai Ria Kenjeran",
+      "keterangan": "Buka setiap hari",
+      "alamat": "jl Sukolilo no 100 Kenjeran Surabaya,jawa Timur , pantai dengan nuansa romantis",
+      "pic": "https://asset.kompas.com/crops/hOLXBrbBU8Y7Ngo8FGJ2Plw9mmQ=/0x0:0x0/750x500/data/photo/2022/01/31/61f7d5481eaf8.jpg",
+      "harga": 20000
+    },
+    {
+      "id": "25",
+      "wisata": "Hutan Bambu Surabaya",
+      "keterangan": "Buka setiap hari sabtu & minggu",
+      "alamat": "Jl. Raya Marina Asri Keputih Surabaya,Jawa Timur",
+      "pic": "HutanBambuSurabaya.jpg",
+      "harga": 5000
+    },
+    {
+      "id": "26",
+      "wisata": "Monumen Kapal Selam",
+      "keterangan": "Buka setiap hari jumat-minggu",
+      "alamat": "Jl. Pemuda No.39, Embong Kaliasin Surabaya, Jawa Timur",
+      "pic": "kapalselam.jpg",
+      "harga": 27000
+    }
+  ]
+}
